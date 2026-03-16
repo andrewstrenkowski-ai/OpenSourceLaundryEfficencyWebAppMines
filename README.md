@@ -1,2 +1,2 @@
-# OpenSourceLaundryEfficencyWebAppMines
+# Team 2 Repo
 
