@@ -1,4 +1,2 @@
 # OpenSourceLaundryEfficencyWebAppMines
 
-
-testing Git push
